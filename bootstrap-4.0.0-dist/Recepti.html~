@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Recepti za Dunju</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="stylesheet" href="Styles/bootstrap.css" media="screen">
+    <link rel="stylesheet" href="Styles/bootstrap.min.css">
+  </head>	
+  <body>
+  
+  <div class="navbar navbar-expand-lg fixed-top navbar-dark bg-primary">
+      <div class="container">
+        <a href="#" class="navbar-brand">Dunja</a>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="#6">6. m</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#7">7. m</a>
+            </li>
+
+          </ul>
+
+         
+        </div>
+        
+        <ul class="nav navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="vreme.html">Vreme kuvanja na pari</a>
+            </li>
+            
+          </ul>
+      </div>
+    </div>
+    
+    
+    <br><br><br><br>
+    
+    <div class="container">
+    
+	    <h2 id="6" class="text-info">6. mesec</h2>
+	    <hr>
+	    
+	    <div class="row">
+	    <div class="col-lg-6">
+          <div class="bs-component">
+          <div class="card mb-3">
+             <h3 class="card-header"><b>Predlog jelovnika</b></h3>
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">(7.00) Dojenje</li>
+						<li class="list-group-item">(10.30) Dojenje + Vocni sok (najvise 50ml)</li>
+						<li class="list-group-item">(14.00) Povrce + (dojenje ako je potrebno)</li>
+						<li class="list-group-item">(17.30) Dojenje + Vocni sok (50ml)</li>
+						<li class="list-group-item">(21.00) Dojenje</li>
+						<li class="list-group-item"><p class="text-danger">Povrce: 3-4 supene kasike (to je oko 60ml) , kasnije 5-6 kašika (oko 150-200ml)</p></li>
+                </ul>
+                
+           </div>
+          </div>
+       </div>
+       <div class="col-lg-6">
+          <div class="bs-component">
+          <div class="card mb-3">
+             <h3 class="card-header"><b>Sokovi</b></h3>
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">Jabuka</li>
+						<li class="list-group-item">Banana</li>
+						<li class="list-group-item">Jabuka+Banana</li>
+						<li class="list-group-item">Breskva</li>
+						<li class="list-group-item">Jabuka+Kruška</li>
+                </ul>
+                
+           </div>
+          </div>
+       </div>
+       </div>
+       
+       <hr>
+       <hr>
+      
+       <div class="row">
+          <div class="col-lg-4">
+          <div class="bs-component">
+          	
+				<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+                <div class="card-header">Pirinač u mleku</div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	100ml mleka <br><hr>
+							1 kašika pirinča <br><hr>
+							Pirinač probrati, oprati i uveče potopiti u hladnu vodu. Ujutru ga procediti i kuvati u mleku koje lagano vri sve dok ne omekša.
+						</p>
+                </div>
+              </div>  
+              
+              
+              <div class="card border-secondary mb-3" style="max-width: 20rem;">
+                <div class="card-header">Kompot od jabuka</div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	
+                  	200g jabuka <br><hr>
+							Može se dodati nekoliko kapi limuna.
+
+						</p>
+                </div>
+              </div>   
+              
+              <div class="card text-white bg-warning mb-3" style="max-width: 20rem;">
+                <div class="card-header">Bundeva, pirinač</div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	Pola šolje pirinča oprati i potopiti veče pre. Pirinač kuvati u 3 puta više vode (20ak minuta). Sve ispasirati i dodati malo maslinovog ulja.
+						</p>
+                </div>
+              </div>   
+              
+              <div class="card text-white bg-info mb-3" style="max-width: 20rem;">
+                <div class="card-header">Mleko sa šargarepom i jabukom</div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	1 srednja šargarepa<br><hr>
+							½ jabuke<br><hr>
+							100ml mleka<br><hr>
+							Šargarepu i jabuku izmiksovati (prokuvati) pa da dodati mleko.
+
+						</p>
+                </div>
+              </div> 
+              
+              <div class="card border-info mb-3" style="max-width: 20rem;">
+                <div class="card-header">Šargarepa i krompir</div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	1 šargarepa<br><hr>
+							1 krompir<br><hr>
+							1 kafena kašika peršunovog lista<br><hr>
+							100ml mleka<br><hr>
+
+						</p>
+                </div>
+              </div>  
+              
+              <div class="card border-light mb-3" style="max-width: 20rem;">
+                <div class="card-header">Mleko sa kajsijama</div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	100ml mleka<br><hr>
+							2 manje kajsije (ili 1 veća)<br><hr>
+							Ispasirati kajsije i polako dodavati prokuvano i prohladjeno mleko.
+
+						</p>
+                </div>
+              </div>   	
+              
+              <div class="card text-white bg-success mb-3" style="max-width: 20rem;">
+                <div class="card-header">Banane i breskve sa jabukom</div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	100g jabuka<br><hr>
+							200g vode<br><hr>
+							1 breskva<br><hr>
+							Pola banane<br><hr>
+						   Breskvu i jabuku kuvati, a na kraju dodati bananu (sve izmisovati)
+
+						</p>
+                </div>
+              </div> 
+              
+              <div class="card bg-light mb-3" style="max-width: 20rem;">
+                <div class="card-header">Jabuka, kruška i breskva</div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	Skuvati na pari pa ispasirati.
+
+						</p>
+                </div>
+              </div>
+          	
+          </div>
+			 </div>
+			 
+			 
+			 <!-- !!!!!!!!!!!!!!!!! Red 2 -->
+			 <div class="col-lg-4">
+			 <div class="bs-component">
+        			<div class="card text-white bg-secondary mb-3" style="max-width: 20rem;">
+                <div class="card-header">Šargarepa</div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	500g šargarepe <br><hr>
+							Skuva se i ispasira.
+						</p>
+                </div>
+              </div> 
+              
+              
+              <div class="card text-white bg-success mb-3" style="max-width: 20rem;">
+                <div class="card-header">Tikvice</div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	Pola tikvice <br><hr>
+							100ml Mleko <br><hr>
+						   Skuvati tikvicu pa ispasirati.
+
+						</p>
+                </div>
+              </div> 
+              
+              <div class="card border-success mb-3" style="max-width: 20rem;">
+                <div class="card-header">Jabuka i bundeva</div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	Skuvati jabuku i bundevu pa ispasirati.
+						</p>
+                </div>
+              </div> 
+              
+              <div class="card border-warning mb-3" style="max-width: 20rem;">
+                <div class="card-header">Mleko i banana</div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	1 banana<br><hr>
+							200ml mleka<br><hr>
+							Bananu izmiksirati i dodati mleko. Kasnije se može dodati pola soka od limuna.
+
+						</p>
+                </div>
+              </div> 
+              
+              
+              <div class="card bg-light mb-3" style="max-width: 20rem;">
+                <div class="card-header">Jabuka i banana</div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	100g jabuka<br><hr>
+							Pola banane<br><hr>
+							Skuvati jabuku i dodati ispasiranu bananu.
+
+						</p>
+                </div>
+              </div> 
+              
+              <div class="card border-light mb-3" style="max-width: 20rem;">
+                <div class="card-header">Kasija u soku od jabuke</div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	100g razblaženog soka od jabuke<br><hr>
+							100g kajsija <br><hr>
+							Kuvati dok se kajsije ne raspadnu. Prognječiti i izmiksovati.
+
+						</p>
+                </div>
+              </div> 
+              
+              <div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+                <div class="card-header">Paškanat i krompir</div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	2-3 paškanata<br><hr>
+							1 krompir<br><hr>
+							Sve skuvati pa ispasirati i dodati prokuvane vode.
+
+						</p>
+                </div>
+              </div> 
+              
+              <div class="card text-white bg-success mb-3" style="max-width: 20rem;">
+                <div class="card-header">Šljive i pirinač</div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	3-4 šljive<br><hr>
+							200ml vode<br><hr>
+							2 kašike pirinča<br><hr>
+							Staviti pirinač da se skuva, pa kad je gotov dodati šljive i kuvati još 5-10 minuta. Ako su suve šljive onda kuvati duže. Sve ispasirati.
+
+						</p>
+                </div>
+              </div> 
+              
+          </div>
+			 </div>
+			 
+			 
+			 <!-- !!!!!!!!!!!!!!!!! Red 3 -->
+			 <div class="col-lg-4">
+			 <div class="bs-component">
+					<div class="card border-primary mb-3" style="max-width: 20rem;">
+                <div class="card-header">Krompir</div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	1 veći krompir <br><hr>
+							50ml mleka <br><hr>
+							Krompir se skuva pa se nalije prokuvanim mlekom.
+						</p>
+                </div>
+              </div>
+              
+              
+              <div class="card text-white bg-danger mb-3" style="max-width: 20rem;">
+                <div class="card-header">Bundeva, tikva, dulek</div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	1 komad tikve<br><hr>
+							50ml mleka<br><hr>
+							Skuvati tikvu pa dodati mleko. Kasnije dodati 1 kafenu kašiku maslinovog ulja.
+
+						</p>
+                </div>
+              </div> 
+              
+              <div class="card border-danger mb-3" style="max-width: 20rem;">
+                <div class="card-header">Pirjač</div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	100g pirinčane čorbe<br><hr>
+							100g jabuka<br><hr>
+							Sve se pomeša i izblendira.
+						</p>
+                </div>
+              </div>	
+              
+              
+              <div class="card text-white bg-info mb-3" style="max-width: 20rem;">
+                <div class="card-header">Tikvica i banana</div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	1 mala tikvica<br><hr>
+							½ banane<br><hr>
+							Sve zajedno kuvati na pari 15-20minuta pa izmiksovati i dodati prokuvanu vodu.
+
+						</p>
+                </div>
+              </div> 
+              
+              <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
+                <div class="card-header">Kruške</div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	Kruška se skuva i ispasira. Dodati nekoliko kapi limuna.
+						</p>
+                </div>
+              </div>	 
+              
+              <div class="card border-dark mb-3" style="max-width: 20rem;">
+                <div class="card-header">Pirinač i voće</div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	100ml mleka<br><hr>
+							1 supena kašika pirinča<br><hr>
+							2 supene kašike mekanog voća<br><hr>
+							Pirinač probrati, oprati i uveče potopiti u hladnu vodu. Ujutru ga procediti i kuvati 
+							u mleku koje lagano vri sve dok ne omekša. Dodati voće (piše sveže): banana, breskva, kajsija.
+
+						</p>
+                </div>
+              </div> 
+              
+              <div class="card text-white bg-secondary mb-3" style="max-width: 20rem;">
+                <div class="card-header">Pirinčani griz i bundeva</div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	1dl vode<br><hr>
+							2 kašike griza<br><hr>
+							Parče bundeve<br><hr>
+							Bundeva se skuva. U vodu pred ključanje se doda pirinčani griz. Kad se zgusne pomeša se sa bundevom. Može se dodati maslinovo ulje i cimet.
+
+						</p>
+                </div>
+              </div>
+			 
+          </div>
+			 </div>
+       </div>
+        
+       <hr>
+		 <h2 id="7" class="text-info">7. mesec</h2>
+    	 <hr>  
+    </div>
+   
+    
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+	 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>  
+</html>
+
+<!-- Copy ovo
+
+<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+                <div class="card-header"></div>
+                <div class="card-body">
+                  <p class="card-text">
+                  	<br><hr>
+						</p>
+                </div>
+              </div> 
+              
+              -->
+
+
+<!--
+
+<div class="row">
+          
+              <div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+                
+              <div class="card text-white bg-secondary mb-3" style="max-width: 20rem;">
+                
+              <div class="card text-white bg-success mb-3" style="max-width: 20rem;">
+                
+              <div class="card text-white bg-danger mb-3" style="max-width: 20rem;">
+                
+              <div class="card text-white bg-warning mb-3" style="max-width: 20rem;">
+                
+              <div class="card text-white bg-info mb-3" style="max-width: 20rem;">
+                
+              <div class="card bg-light mb-3" style="max-width: 20rem;">
+               
+              <div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
+                
+              <div class="card border-primary mb-3" style="max-width: 20rem;">
+                
+              <div class="card border-secondary mb-3" style="max-width: 20rem;">
+                
+              <div class="card border-success mb-3" style="max-width: 20rem;">
+               
+              <div class="card border-danger mb-3" style="max-width: 20rem;">
+               
+              <div class="card border-warning mb-3" style="max-width: 20rem;">
+                
+              <div class="card border-info mb-3" style="max-width: 20rem;">
+               
+              <div class="card border-light mb-3" style="max-width: 20rem;">
+               
+              <div class="card border-dark mb-3" style="max-width: 20rem;">
+                
+          <div class="col-lg-4">
+            <div class="bs-component">
+              <div class="card mb-3">
+                <h3 class="card-header">Card header</h3>
+                <div class="card-body">
+                  <h5 class="card-title">Special title treatment</h5>
+                  <h6 class="card-subtitle text-muted">Support card subtitle</h6>
+                </div>
+                <img style="height: 200px; width: 100%; display: block;" src="data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22318%22%20height%3D%22180%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20318%20180%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_158bd1d28ef%20text%20%7B%20fill%3Argba(255%2C255%2C255%2C.75)%3Bfont-weight%3Anormal%3Bfont-family%3AHelvetica%2C%20monospace%3Bfont-size%3A16pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_158bd1d28ef%22%3E%3Crect%20width%3D%22318%22%20height%3D%22180%22%20fill%3D%22%23777%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22129.359375%22%20y%3D%2297.35%22%3EImage%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="Card image">
+                <div class="card-body">
+                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">Cras justo odio</li>
+                  <li class="list-group-item">Dapibus ac facilisis in</li>
+                  <li class="list-group-item">Vestibulum at eros</li>
+                </ul>
+                <div class="card-body">
+                  <a href="#" class="card-link">Card link</a>
+                  <a href="#" class="card-link">Another link</a>
+                </div>
+                <div class="card-footer text-muted">
+                  2 days ago
+                </div>
+              </div>
+              <div class="card">
+                <div class="card-body">
+                  <h4 class="card-title">Card title</h4>
+                  <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                  <a href="#" class="card-link">Card link</a>
+                  <a href="#" class="card-link">Another link</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+          
+-->
+          
+          
+          
